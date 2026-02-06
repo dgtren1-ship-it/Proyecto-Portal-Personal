@@ -46,7 +46,7 @@ header hr {
 
 @font-face{
     font-family: "FuenteMona";
-    src: url("../fuentes/cute_notes/Cute\ Notes.ttf") format("truetype");
+    src: url("../fonts/cute_notes/Cute\ Notes.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
