@@ -1,0 +1,633 @@
+<?xml-stylesheet type="text/xsl" href="..\XSLT\Quiz.xslt"?>
+<DATA>
+	<ROW>
+		<pregunta_id>1</pregunta_id>
+		<pregunta>¿Qué software es mejor para ilustración digital?</pregunta>
+		<respuesta_id>1</respuesta_id>
+		<respuesta>Programas como Clip Studio Paint o Procreate son ideales para ilustración.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>1</pregunta_id>
+		<pregunta>¿Qué software es mejor para ilustración digital?</pregunta>
+		<respuesta_id>2</respuesta_id>
+		<respuesta>Photoshop sigue siendo una opción versátil para artistas profesionales.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>1</pregunta_id>
+		<pregunta>¿Qué software es mejor para ilustración digital?</pregunta>
+		<respuesta_id>3</respuesta_id>
+		<respuesta>Krita es una alternativa gratuita muy potente.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>2</pregunta_id>
+		<pregunta>¿Qué características debe tener una tableta gráfica?</pregunta>
+		<respuesta_id>4</respuesta_id>
+		<respuesta>Debe tener buena sensibilidad a la presión y baja latencia.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>2</pregunta_id>
+		<pregunta>¿Qué características debe tener una tableta gráfica?</pregunta>
+		<respuesta_id>5</respuesta_id>
+		<respuesta>El tamaño del área activa influye en la comodidad.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>2</pregunta_id>
+		<pregunta>¿Qué características debe tener una tableta gráfica?</pregunta>
+		<respuesta_id>6</respuesta_id>
+		<respuesta>Los niveles de inclinación mejoran la naturalidad del trazo.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>3</pregunta_id>
+		<pregunta>¿Qué diferencia hay entre monitor interactivo y tableta gráfica?</pregunta>
+		<respuesta_id>7</respuesta_id>
+		<respuesta>Un monitor interactivo permite dibujar directamente sobre la pantalla.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>3</pregunta_id>
+		<pregunta>¿Qué diferencia hay entre monitor interactivo y tableta gráfica?</pregunta>
+		<respuesta_id>8</respuesta_id>
+		<respuesta>Una tableta gráfica requiere mirar al monitor mientras dibujas.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>3</pregunta_id>
+		<pregunta>¿Qué diferencia hay entre monitor interactivo y tableta gráfica?</pregunta>
+		<respuesta_id>9</respuesta_id>
+		<respuesta>Los monitores interactivos suelen ser más costosos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>4</pregunta_id>
+		<pregunta>¿Qué formato es mejor para guardar ilustraciones?</pregunta>
+		<respuesta_id>10</respuesta_id>
+		<respuesta>El formato PNG es ideal para conservar calidad.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>4</pregunta_id>
+		<pregunta>¿Qué formato es mejor para guardar ilustraciones?</pregunta>
+		<respuesta_id>11</respuesta_id>
+		<respuesta>TIFF es excelente para impresión profesional.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>4</pregunta_id>
+		<pregunta>¿Qué formato es mejor para guardar ilustraciones?</pregunta>
+		<respuesta_id>12</respuesta_id>
+		<respuesta>PSD permite mantener capas editables.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>5</pregunta_id>
+		<pregunta>¿Cómo mejorar la precisión del lápiz digital?</pregunta>
+		<respuesta_id>13</respuesta_id>
+		<respuesta>Actualiza los drivers de tu tableta gráfica.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>5</pregunta_id>
+		<pregunta>¿Cómo mejorar la precisión del lápiz digital?</pregunta>
+		<respuesta_id>14</respuesta_id>
+		<respuesta>Ajusta la curva de presión en tu software.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>5</pregunta_id>
+		<pregunta>¿Cómo mejorar la precisión del lápiz digital?</pregunta>
+		<respuesta_id>15</respuesta_id>
+		<respuesta>Evita interferencias USB o Bluetooth.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>6</pregunta_id>
+		<pregunta>¿Qué software es ideal para animación 2D?</pregunta>
+		<respuesta_id>16</respuesta_id>
+		<respuesta>Toon Boom Harmony es estándar en la industria.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>6</pregunta_id>
+		<pregunta>¿Qué software es ideal para animación 2D?</pregunta>
+		<respuesta_id>17</respuesta_id>
+		<respuesta>OpenToonz es una opción gratuita y potente.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>6</pregunta_id>
+		<pregunta>¿Qué software es ideal para animación 2D?</pregunta>
+		<respuesta_id>18</respuesta_id>
+		<respuesta>Krita también incluye herramientas de animación 2D.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>7</pregunta_id>
+		<pregunta>¿Cómo optimizar mi flujo de trabajo creativo?</pregunta>
+		<respuesta_id>19</respuesta_id>
+		<respuesta>Organiza tus pinceles y atajos de teclado.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>7</pregunta_id>
+		<pregunta>¿Cómo optimizar mi flujo de trabajo creativo?</pregunta>
+		<respuesta_id>20</respuesta_id>
+		<respuesta>Usa referencias visuales desde el inicio.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>7</pregunta_id>
+		<pregunta>¿Cómo optimizar mi flujo de trabajo creativo?</pregunta>
+		<respuesta_id>21</respuesta_id>
+		<respuesta>Divide tu proceso en etapas claras.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>8</pregunta_id>
+		<pregunta>¿Qué es el dibujo vectorial?</pregunta>
+		<respuesta_id>22</respuesta_id>
+		<respuesta>El dibujo vectorial permite escalar sin perder calidad.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>8</pregunta_id>
+		<pregunta>¿Qué es el dibujo vectorial?</pregunta>
+		<respuesta_id>23</respuesta_id>
+		<respuesta>Es ideal para logotipos e ilustraciones limpias.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>8</pregunta_id>
+		<pregunta>¿Qué es el dibujo vectorial?</pregunta>
+		<respuesta_id>24</respuesta_id>
+		<respuesta>Programas como Illustrator o Inkscape son perfectos para ello.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>9</pregunta_id>
+		<pregunta>¿Qué programa ofrece pinceles realistas?</pregunta>
+		<respuesta_id>25</respuesta_id>
+		<respuesta>Corel Painter ofrece pinceles muy realistas.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>9</pregunta_id>
+		<pregunta>¿Qué programa ofrece pinceles realistas?</pregunta>
+		<respuesta_id>26</respuesta_id>
+		<respuesta>Rebelle simula acuarelas y óleos con gran precisión.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>9</pregunta_id>
+		<pregunta>¿Qué programa ofrece pinceles realistas?</pregunta>
+		<respuesta_id>27</respuesta_id>
+		<respuesta>Krita también tiene pinceles naturales.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>10</pregunta_id>
+		<pregunta>¿Cómo elegir la resolución adecuada?</pregunta>
+		<respuesta_id>28</respuesta_id>
+		<respuesta>Para impresión usa 300 DPI.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>10</pregunta_id>
+		<pregunta>¿Cómo elegir la resolución adecuada?</pregunta>
+		<respuesta_id>29</respuesta_id>
+		<respuesta>Para web basta con 72 DPI.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>10</pregunta_id>
+		<pregunta>¿Cómo elegir la resolución adecuada?</pregunta>
+		<respuesta_id>30</respuesta_id>
+		<respuesta>El tamaño depende del destino final de la obra.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>11</pregunta_id>
+		<pregunta>¿Qué equipo necesito para arte digital?</pregunta>
+		<respuesta_id>31</respuesta_id>
+		<respuesta>Necesitas una tableta gráfica básica y un software de dibujo.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>11</pregunta_id>
+		<pregunta>¿Qué equipo necesito para arte digital?</pregunta>
+		<respuesta_id>32</respuesta_id>
+		<respuesta>Un ordenador con buena RAM mejora el rendimiento.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>11</pregunta_id>
+		<pregunta>¿Qué equipo necesito para arte digital?</pregunta>
+		<respuesta_id>33</respuesta_id>
+		<respuesta>Opcionalmente, un monitor calibrado ayuda con el color.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>12</pregunta_id>
+		<pregunta>¿Cómo evitar la latencia al dibujar?</pregunta>
+		<respuesta_id>34</respuesta_id>
+		<respuesta>Conecta la tableta directamente al puerto USB.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>12</pregunta_id>
+		<pregunta>¿Cómo evitar la latencia al dibujar?</pregunta>
+		<respuesta_id>35</respuesta_id>
+		<respuesta>Cierra programas pesados en segundo plano.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>12</pregunta_id>
+		<pregunta>¿Cómo evitar la latencia al dibujar?</pregunta>
+		<respuesta_id>36</respuesta_id>
+		<respuesta>Actualiza drivers y firmware.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>13</pregunta_id>
+		<pregunta>¿Qué es un lienzo digital?</pregunta>
+		<respuesta_id>37</respuesta_id>
+		<respuesta>Es el espacio de trabajo donde dibujas digitalmente.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>13</pregunta_id>
+		<pregunta>¿Qué es un lienzo digital?</pregunta>
+		<respuesta_id>38</respuesta_id>
+		<respuesta>Puedes definir tamaño, resolución y color.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>13</pregunta_id>
+		<pregunta>¿Qué es un lienzo digital?</pregunta>
+		<respuesta_id>39</respuesta_id>
+		<respuesta>Configúralo según el uso final de tu obra.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>14</pregunta_id>
+		<pregunta>¿Cómo organizar mis archivos artísticos?</pregunta>
+		<respuesta_id>40</respuesta_id>
+		<respuesta>Crea carpetas por proyecto o cliente.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>14</pregunta_id>
+		<pregunta>¿Cómo organizar mis archivos artísticos?</pregunta>
+		<respuesta_id>41</respuesta_id>
+		<respuesta>Usa nombres descriptivos para tus archivos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>14</pregunta_id>
+		<pregunta>¿Cómo organizar mis archivos artísticos?</pregunta>
+		<respuesta_id>42</respuesta_id>
+		<respuesta>Haz copias de seguridad periódicas.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>15</pregunta_id>
+		<pregunta>¿Cuándo usar color RGB?</pregunta>
+		<respuesta_id>43</respuesta_id>
+		<respuesta>RGB es ideal para pantallas y contenido digital.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>15</pregunta_id>
+		<pregunta>¿Cuándo usar color RGB?</pregunta>
+		<respuesta_id>44</respuesta_id>
+		<respuesta>Tiene una gama de colores más amplia.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>15</pregunta_id>
+		<pregunta>¿Cuándo usar color RGB?</pregunta>
+		<respuesta_id>45</respuesta_id>
+		<respuesta>Es el estándar para redes sociales.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>16</pregunta_id>
+		<pregunta>¿Cuándo usar color CMYK?</pregunta>
+		<respuesta_id>46</respuesta_id>
+		<respuesta>CMYK se usa para impresión profesional.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>16</pregunta_id>
+		<pregunta>¿Cuándo usar color CMYK?</pregunta>
+		<respuesta_id>47</respuesta_id>
+		<respuesta>Reproduce colores mediante tintas.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>16</pregunta_id>
+		<pregunta>¿Cuándo usar color CMYK?</pregunta>
+		<respuesta_id>48</respuesta_id>
+		<respuesta>Convierte tu archivo antes de imprimir.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>17</pregunta_id>
+		<pregunta>¿Cómo calibrar mi monitor?</pregunta>
+		<respuesta_id>49</respuesta_id>
+		<respuesta>La calibración asegura colores precisos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>17</pregunta_id>
+		<pregunta>¿Cómo calibrar mi monitor?</pregunta>
+		<respuesta_id>50</respuesta_id>
+		<respuesta>Puedes usar herramientas como calibradores externos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>17</pregunta_id>
+		<pregunta>¿Cómo calibrar mi monitor?</pregunta>
+		<respuesta_id>51</respuesta_id>
+		<respuesta>Muchos monitores incluyen perfiles predefinidos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>18</pregunta_id>
+		<pregunta>¿Qué es la sensibilidad a la presión?</pregunta>
+		<respuesta_id>52</respuesta_id>
+		<respuesta>Es la capacidad de detectar la fuerza del trazo.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>18</pregunta_id>
+		<pregunta>¿Qué es la sensibilidad a la presión?</pregunta>
+		<respuesta_id>53</respuesta_id>
+		<respuesta>Permite líneas más naturales y expresivas.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>18</pregunta_id>
+		<pregunta>¿Qué es la sensibilidad a la presión?</pregunta>
+		<respuesta_id>54</respuesta_id>
+		<respuesta>Depende del hardware y del software.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>19</pregunta_id>
+		<pregunta>¿Cómo crear una paleta de colores?</pregunta>
+		<respuesta_id>55</respuesta_id>
+		<respuesta>Elige colores base y tonos complementarios.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>19</pregunta_id>
+		<pregunta>¿Cómo crear una paleta de colores?</pregunta>
+		<respuesta_id>56</respuesta_id>
+		<respuesta>Usa herramientas como Adobe Color.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>19</pregunta_id>
+		<pregunta>¿Cómo crear una paleta de colores?</pregunta>
+		<respuesta_id>57</respuesta_id>
+		<respuesta>Evita usar demasiados colores sin propósito.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>20</pregunta_id>
+		<pregunta>¿Qué software es mejor para diseño de personajes?</pregunta>
+		<respuesta_id>58</respuesta_id>
+		<respuesta>Clip Studio Paint es excelente para personajes.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>20</pregunta_id>
+		<pregunta>¿Qué software es mejor para diseño de personajes?</pregunta>
+		<respuesta_id>59</respuesta_id>
+		<respuesta>Photoshop ofrece gran flexibilidad.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>20</pregunta_id>
+		<pregunta>¿Qué software es mejor para diseño de personajes?</pregunta>
+		<respuesta_id>60</respuesta_id>
+		<respuesta>Procreate es ideal para bocetos rápidos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>21</pregunta_id>
+		<pregunta>¿Cómo exportar ilustraciones sin perder calidad?</pregunta>
+		<respuesta_id>61</respuesta_id>
+		<respuesta>Exporta en PNG o TIFF para máxima calidad.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>21</pregunta_id>
+		<pregunta>¿Cómo exportar ilustraciones sin perder calidad?</pregunta>
+		<respuesta_id>62</respuesta_id>
+		<respuesta>Evita comprimir demasiado tus archivos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>21</pregunta_id>
+		<pregunta>¿Cómo exportar ilustraciones sin perder calidad?</pregunta>
+		<respuesta_id>63</respuesta_id>
+		<respuesta>Ajusta el perfil de color según el destino.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>22</pregunta_id>
+		<pregunta>¿Qué es el mapeo de texturas 3D?</pregunta>
+		<respuesta_id>64</respuesta_id>
+		<respuesta>Es aplicar imágenes sobre modelos 3D.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>22</pregunta_id>
+		<pregunta>¿Qué es el mapeo de texturas 3D?</pregunta>
+		<respuesta_id>65</respuesta_id>
+		<respuesta>Permite dar detalles como piel o metal.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>22</pregunta_id>
+		<pregunta>¿Qué es el mapeo de texturas 3D?</pregunta>
+		<respuesta_id>66</respuesta_id>
+		<respuesta>Programas como Blender o Substance Painter lo facilitan.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>23</pregunta_id>
+		<pregunta>¿Qué programa usar para escultura digital?</pregunta>
+		<respuesta_id>67</respuesta_id>
+		<respuesta>ZBrush es líder en escultura digital.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>23</pregunta_id>
+		<pregunta>¿Qué programa usar para escultura digital?</pregunta>
+		<respuesta_id>68</respuesta_id>
+		<respuesta>Blender ofrece herramientas gratuitas y potentes.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>23</pregunta_id>
+		<pregunta>¿Qué programa usar para escultura digital?</pregunta>
+		<respuesta_id>69</respuesta_id>
+		<respuesta>Mudbox es otra alternativa profesional.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>24</pregunta_id>
+		<pregunta>¿Cómo mejorar el sombreado digital?</pregunta>
+		<respuesta_id>70</respuesta_id>
+		<respuesta>Practica degradados suaves y transiciones.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>24</pregunta_id>
+		<pregunta>¿Cómo mejorar el sombreado digital?</pregunta>
+		<respuesta_id>71</respuesta_id>
+		<respuesta>Usa capas para separar luces y sombras.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>24</pregunta_id>
+		<pregunta>¿Cómo mejorar el sombreado digital?</pregunta>
+		<respuesta_id>72</respuesta_id>
+		<respuesta>Observa referencias del mundo real.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>25</pregunta_id>
+		<pregunta>¿Qué es el arte generativo?</pregunta>
+		<respuesta_id>73</respuesta_id>
+		<respuesta>Es arte creado mediante algoritmos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>25</pregunta_id>
+		<pregunta>¿Qué es el arte generativo?</pregunta>
+		<respuesta_id>74</respuesta_id>
+		<respuesta>Puedes empezar con Processing o p5.js.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>25</pregunta_id>
+		<pregunta>¿Qué es el arte generativo?</pregunta>
+		<respuesta_id>75</respuesta_id>
+		<respuesta>Combina creatividad y programación.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>26</pregunta_id>
+		<pregunta>¿Cómo proteger mis obras digitales?</pregunta>
+		<respuesta_id>76</respuesta_id>
+		<respuesta>Registra tus obras en plataformas oficiales.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>26</pregunta_id>
+		<pregunta>¿Cómo proteger mis obras digitales?</pregunta>
+		<respuesta_id>77</respuesta_id>
+		<respuesta>Incluye marcas de agua discretas.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>26</pregunta_id>
+		<pregunta>¿Cómo proteger mis obras digitales?</pregunta>
+		<respuesta_id>78</respuesta_id>
+		<respuesta>Guarda archivos originales con fecha.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>27</pregunta_id>
+		<pregunta>¿Qué es un pincel digital?</pregunta>
+		<respuesta_id>79</respuesta_id>
+		<respuesta>Son herramientas que simulan materiales reales.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>27</pregunta_id>
+		<pregunta>¿Qué es un pincel digital?</pregunta>
+		<respuesta_id>80</respuesta_id>
+		<respuesta>Puedes ajustar textura, opacidad y forma.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>27</pregunta_id>
+		<pregunta>¿Qué es un pincel digital?</pregunta>
+		<respuesta_id>81</respuesta_id>
+		<respuesta>Muchos programas permiten crear pinceles personalizados.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>28</pregunta_id>
+		<pregunta>¿Cómo crear un portafolio digital?</pregunta>
+		<respuesta_id>82</respuesta_id>
+		<respuesta>Incluye tus mejores obras organizadas por categorías.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>28</pregunta_id>
+		<pregunta>¿Cómo crear un portafolio digital?</pregunta>
+		<respuesta_id>83</respuesta_id>
+		<respuesta>Usa una web limpia y fácil de navegar.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>28</pregunta_id>
+		<pregunta>¿Cómo crear un portafolio digital?</pregunta>
+		<respuesta_id>84</respuesta_id>
+		<respuesta>Actualiza tu portafolio regularmente.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>29</pregunta_id>
+		<pregunta>¿Qué es la perspectiva digital?</pregunta>
+		<respuesta_id>85</respuesta_id>
+		<respuesta>Es representar objetos en profundidad.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>29</pregunta_id>
+		<pregunta>¿Qué es la perspectiva digital?</pregunta>
+		<respuesta_id>86</respuesta_id>
+		<respuesta>Usa líneas de fuga para guiar la perspectiva.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>29</pregunta_id>
+		<pregunta>¿Qué es la perspectiva digital?</pregunta>
+		<respuesta_id>87</respuesta_id>
+		<respuesta>Muchos programas incluyen reglas de perspectiva.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>30</pregunta_id>
+		<pregunta>¿Cómo usar capas eficientemente?</pregunta>
+		<respuesta_id>88</respuesta_id>
+		<respuesta>Usa capas para separar elementos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>30</pregunta_id>
+		<pregunta>¿Cómo usar capas eficientemente?</pregunta>
+		<respuesta_id>89</respuesta_id>
+		<respuesta>Nombra tus capas para evitar confusiones.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>30</pregunta_id>
+		<pregunta>¿Cómo usar capas eficientemente?</pregunta>
+		<respuesta_id>90</respuesta_id>
+		<respuesta>Agrupa capas relacionadas para mayor orden.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>31</pregunta_id>
+		<pregunta>¿Qué es un archivo PSD?</pregunta>
+		<respuesta_id>91</respuesta_id>
+		<respuesta>PSD es el formato editable de Photoshop.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>31</pregunta_id>
+		<pregunta>¿Qué es un archivo PSD?</pregunta>
+		<respuesta_id>92</respuesta_id>
+		<respuesta>Permite guardar capas, máscaras y ajustes.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>31</pregunta_id>
+		<pregunta>¿Qué es un archivo PSD?</pregunta>
+		<respuesta_id>93</respuesta_id>
+		<respuesta>Es ideal para proyectos complejos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>32</pregunta_id>
+		<pregunta>¿Cómo convertir ilustraciones en animaciones simples?</pregunta>
+		<respuesta_id>94</respuesta_id>
+		<respuesta>Puedes usar fotogramas clave en tu software.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>32</pregunta_id>
+		<pregunta>¿Cómo convertir ilustraciones en animaciones simples?</pregunta>
+		<respuesta_id>95</respuesta_id>
+		<respuesta>Divide tu ilustración en partes móviles.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>32</pregunta_id>
+		<pregunta>¿Cómo convertir ilustraciones en animaciones simples?</pregunta>
+		<respuesta_id>96</respuesta_id>
+		<respuesta>Exporta en GIF o video según necesidad.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>33</pregunta_id>
+		<pregunta>¿Qué es el modelado 3D?</pregunta>
+		<respuesta_id>97</respuesta_id>
+		<respuesta>Es crear objetos tridimensionales digitales.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>33</pregunta_id>
+		<pregunta>¿Qué es el modelado 3D?</pregunta>
+		<respuesta_id>98</respuesta_id>
+		<respuesta>Blender es una excelente herramienta gratuita.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>33</pregunta_id>
+		<pregunta>¿Qué es el modelado 3D?</pregunta>
+		<respuesta_id>99</respuesta_id>
+		<respuesta>Empieza con formas simples antes de modelos complejos.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>34</pregunta_id>
+		<pregunta>¿Cómo mejorar la velocidad del software de arte?</pregunta>
+		<respuesta_id>100</respuesta_id>
+		<respuesta>Cierra programas pesados mientras dibujas.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>34</pregunta_id>
+		<pregunta>¿Cómo mejorar la velocidad del software de arte?</pregunta>
+		<respuesta_id>101</respuesta_id>
+		<respuesta>Aumenta la RAM si es posible.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>34</pregunta_id>
+		<pregunta>¿Cómo mejorar la velocidad del software de arte?</pregunta>
+		<respuesta_id>102</respuesta_id>
+		<respuesta>Optimiza la configuración del software.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>35</pregunta_id>
+		<pregunta>¿Qué es un workflow artístico?</pregunta>
+		<respuesta_id>103</respuesta_id>
+		<respuesta>Es el proceso que sigues para crear arte.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>35</pregunta_id>
+		<pregunta>¿Qué es un workflow artístico?</pregunta>
+		<respuesta_id>104</respuesta_id>
+		<respuesta>Incluye etapas como boceto, color y acabado.</respuesta>
+	</ROW>
+	<ROW>
+		<pregunta_id>35</pregunta_id>
+		<pregunta>¿Qué es un workflow artístico?</pregunta>
+		<respuesta_id>105</respuesta_id>
+		<respuesta>Definirlo mejora tu productividad.</respuesta>
+	</ROW>
+</DATA>
