@@ -10,15 +10,20 @@
         <html>
             <head>
                 <title>Quiz</title>
+
+                <!-- Enlace correcto al CSS -->
+                <link rel="stylesheet" href="../css/styles.css">
             </head>
+
             <body>
-                <h1>Cuestionario</h1>
+                <h1 class="title">Cuestionario</h1>
 
                 <xsl:for-each select="DATA/ROW[generate-id() = generate-id(key('preguntas', pregunta_id)[1])]">
-                    <div>
+                    <div class="pregunta-box">
                         <h3>
                             <xsl:value-of select="pregunta"/>
                         </h3>
+
                         <ul>
                             <xsl:for-each select="key('preguntas', pregunta_id)">
                                 <li>
@@ -34,3 +39,4 @@
     </xsl:template>
 
 </xsl:stylesheet>
+
